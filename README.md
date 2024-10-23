@@ -1,0 +1,1 @@
+A simple ML project aimed at predicting crop values based on historical data, crop type, location, and years. The repository includes data preprocessing, model training, and evaluation to help farmers and stakeholders make data-driven decisions for optimizing crop yields and market profitability.
